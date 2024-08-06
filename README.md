@@ -1,6 +1,7 @@
+<img src="./gif/main.gif"> 
+<h1> Simple Password Manager </h1>
+<h4> This script helps and simplifies the work with storing passwords. </h4>
 
-# Simple Password Manager 
-This script helps and simplifies the work with storing passwords.
 > [!NOTE]
 > Passwords are stored in JSON/Sqilte3 formats
 
